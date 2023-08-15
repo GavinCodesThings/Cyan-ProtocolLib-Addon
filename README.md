@@ -7,5 +7,5 @@ It is different because it is easier to use, instead of writing to ints of speci
 ## Notes
 This is made specifically for 1.8.8 Bukkit servers, but more compatability may be added in the future.
 
-## help
-nms is so painful to learn pls help me AAAAA..
+## Credits
+Some of the code may be from ProtocolLib (because I have no idea what I am doing and have no knowledge of NMS whatsoever, so some credit goes to them).
